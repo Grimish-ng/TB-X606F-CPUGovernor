@@ -1,7 +1,7 @@
 # CPU Governor — TB-X606F
 ### Lenovo Tab M10 HD 2nd Gen · Mediatek Helio P22T
-Pet Project Using Multiple AI's to develop an Device Specific app and go from there.
-This is just a learning project. I take no responsibility for hardware damaged from the use of this app.
+Pet Project to develop an Device Specific app and go from there.
+This is just a learning project. I take no responsibility for hardware damaged from the use of this app. I've used SVN's for years but wanted more experience with github, forgejo etc. In addition to more experience using whole git workflow and android-sdk/koltin/gradle development instead of just compiling. Using these tools on linux CLI seems more complicated than native GUI's so this is my experience to myself.
 
 A native Android app for controlling CPU governor and frequency on the TB-X606F.
 Requires a **rooted device** (Magisk recommended).
