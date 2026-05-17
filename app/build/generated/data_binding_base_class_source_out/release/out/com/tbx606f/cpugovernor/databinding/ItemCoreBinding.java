@@ -5,6 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
+import android.widget.ProgressBar;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -20,11 +21,24 @@ public final class ItemCoreBinding implements ViewBinding {
   private final LinearLayout rootView;
 
   @NonNull
+  public final ProgressBar progressFreq;
+
+  @NonNull
   public final TextView textCore;
 
-  private ItemCoreBinding(@NonNull LinearLayout rootView, @NonNull TextView textCore) {
+  @NonNull
+  public final TextView textFreq;
+
+  @NonNull
+  public final TextView textGovernor;
+
+  private ItemCoreBinding(@NonNull LinearLayout rootView, @NonNull ProgressBar progressFreq,
+      @NonNull TextView textCore, @NonNull TextView textFreq, @NonNull TextView textGovernor) {
     this.rootView = rootView;
+    this.progressFreq = progressFreq;
     this.textCore = textCore;
+    this.textFreq = textFreq;
+    this.textGovernor = textGovernor;
   }
 
   @Override
@@ -54,13 +68,32 @@ public final class ItemCoreBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.progressFreq;
+      ProgressBar progressFreq = ViewBindings.findChildViewById(rootView, id);
+      if (progressFreq == null) {
+        break missingId;
+      }
+
       id = R.id.textCore;
       TextView textCore = ViewBindings.findChildViewById(rootView, id);
       if (textCore == null) {
         break missingId;
       }
 
-      return new ItemCoreBinding((LinearLayout) rootView, textCore);
+      id = R.id.textFreq;
+      TextView textFreq = ViewBindings.findChildViewById(rootView, id);
+      if (textFreq == null) {
+        break missingId;
+      }
+
+      id = R.id.textGovernor;
+      TextView textGovernor = ViewBindings.findChildViewById(rootView, id);
+      if (textGovernor == null) {
+        break missingId;
+      }
+
+      return new ItemCoreBinding((LinearLayout) rootView, progressFreq, textCore, textFreq,
+          textGovernor);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

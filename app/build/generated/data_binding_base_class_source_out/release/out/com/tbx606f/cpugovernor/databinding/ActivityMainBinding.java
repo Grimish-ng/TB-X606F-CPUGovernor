@@ -5,13 +5,14 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
-import android.widget.LinearLayout;
-import android.widget.Switch;
+import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.core.widget.NestedScrollView;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
+import com.google.android.material.switchmaterial.SwitchMaterial;
 import com.tbx606f.cpugovernor.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
@@ -19,7 +20,7 @@ import java.lang.String;
 
 public final class ActivityMainBinding implements ViewBinding {
   @NonNull
-  private final LinearLayout rootView;
+  private final NestedScrollView rootView;
 
   @NonNull
   public final Button btnBalanced;
@@ -37,11 +38,32 @@ public final class ActivityMainBinding implements ViewBinding {
   public final RecyclerView recyclerCores;
 
   @NonNull
-  public final Switch switchThermal;
+  public final SwitchMaterial switchThermal;
 
-  private ActivityMainBinding(@NonNull LinearLayout rootView, @NonNull Button btnBalanced,
+  @NonNull
+  public final TextView tvActiveProfile;
+
+  @NonNull
+  public final TextView tvStatDrain;
+
+  @NonNull
+  public final TextView tvStatGovernor;
+
+  @NonNull
+  public final TextView tvStatMaxFreq;
+
+  @NonNull
+  public final TextView tvStatTemp;
+
+  @NonNull
+  public final TextView tvThermalStatus;
+
+  private ActivityMainBinding(@NonNull NestedScrollView rootView, @NonNull Button btnBalanced,
       @NonNull Button btnBattery, @NonNull Button btnEco, @NonNull Button btnPerformance,
-      @NonNull RecyclerView recyclerCores, @NonNull Switch switchThermal) {
+      @NonNull RecyclerView recyclerCores, @NonNull SwitchMaterial switchThermal,
+      @NonNull TextView tvActiveProfile, @NonNull TextView tvStatDrain,
+      @NonNull TextView tvStatGovernor, @NonNull TextView tvStatMaxFreq,
+      @NonNull TextView tvStatTemp, @NonNull TextView tvThermalStatus) {
     this.rootView = rootView;
     this.btnBalanced = btnBalanced;
     this.btnBattery = btnBattery;
@@ -49,11 +71,17 @@ public final class ActivityMainBinding implements ViewBinding {
     this.btnPerformance = btnPerformance;
     this.recyclerCores = recyclerCores;
     this.switchThermal = switchThermal;
+    this.tvActiveProfile = tvActiveProfile;
+    this.tvStatDrain = tvStatDrain;
+    this.tvStatGovernor = tvStatGovernor;
+    this.tvStatMaxFreq = tvStatMaxFreq;
+    this.tvStatTemp = tvStatTemp;
+    this.tvThermalStatus = tvThermalStatus;
   }
 
   @Override
   @NonNull
-  public LinearLayout getRoot() {
+  public NestedScrollView getRoot() {
     return rootView;
   }
 
@@ -109,13 +137,50 @@ public final class ActivityMainBinding implements ViewBinding {
       }
 
       id = R.id.switchThermal;
-      Switch switchThermal = ViewBindings.findChildViewById(rootView, id);
+      SwitchMaterial switchThermal = ViewBindings.findChildViewById(rootView, id);
       if (switchThermal == null) {
         break missingId;
       }
 
-      return new ActivityMainBinding((LinearLayout) rootView, btnBalanced, btnBattery, btnEco,
-          btnPerformance, recyclerCores, switchThermal);
+      id = R.id.tvActiveProfile;
+      TextView tvActiveProfile = ViewBindings.findChildViewById(rootView, id);
+      if (tvActiveProfile == null) {
+        break missingId;
+      }
+
+      id = R.id.tvStatDrain;
+      TextView tvStatDrain = ViewBindings.findChildViewById(rootView, id);
+      if (tvStatDrain == null) {
+        break missingId;
+      }
+
+      id = R.id.tvStatGovernor;
+      TextView tvStatGovernor = ViewBindings.findChildViewById(rootView, id);
+      if (tvStatGovernor == null) {
+        break missingId;
+      }
+
+      id = R.id.tvStatMaxFreq;
+      TextView tvStatMaxFreq = ViewBindings.findChildViewById(rootView, id);
+      if (tvStatMaxFreq == null) {
+        break missingId;
+      }
+
+      id = R.id.tvStatTemp;
+      TextView tvStatTemp = ViewBindings.findChildViewById(rootView, id);
+      if (tvStatTemp == null) {
+        break missingId;
+      }
+
+      id = R.id.tvThermalStatus;
+      TextView tvThermalStatus = ViewBindings.findChildViewById(rootView, id);
+      if (tvThermalStatus == null) {
+        break missingId;
+      }
+
+      return new ActivityMainBinding((NestedScrollView) rootView, btnBalanced, btnBattery, btnEco,
+          btnPerformance, recyclerCores, switchThermal, tvActiveProfile, tvStatDrain,
+          tvStatGovernor, tvStatMaxFreq, tvStatTemp, tvThermalStatus);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

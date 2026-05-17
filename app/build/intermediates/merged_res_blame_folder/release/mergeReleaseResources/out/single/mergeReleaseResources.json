@@ -8,12 +8,12 @@
         "source": "com.tbx606f.cpugovernor.app-main-38:/mipmap-hdpi/ic_launcher.xml"
     },
     {
-        "merged": "com.tbx606f.cpugovernor.app-release-37:/layout_item_core.xml.flat",
-        "source": "com.tbx606f.cpugovernor.app-main-38:/layout/item_core.xml"
+        "merged": "com.tbx606f.cpugovernor.app-release-37:/color_switch_track_selector.xml.flat",
+        "source": "com.tbx606f.cpugovernor.app-main-38:/color/switch_track_selector.xml"
     },
     {
-        "merged": "com.tbx606f.cpugovernor.app-release-37:/mipmap-mdpi_ic_launcher.xml.flat",
-        "source": "com.tbx606f.cpugovernor.app-main-38:/mipmap-mdpi/ic_launcher.xml"
+        "merged": "com.tbx606f.cpugovernor.app-release-37:/layout_item_core.xml.flat",
+        "source": "com.tbx606f.cpugovernor.app-main-38:/layout/item_core.xml"
     },
     {
         "merged": "com.tbx606f.cpugovernor.app-release-37:/mipmap-xhdpi_ic_launcher_round.xml.flat",
@@ -36,8 +36,8 @@
         "source": "com.tbx606f.cpugovernor.app-main-38:/drawable/ic_battery_saver.xml"
     },
     {
-        "merged": "com.tbx606f.cpugovernor.app-release-37:/mipmap-xxhdpi_ic_launcher.xml.flat",
-        "source": "com.tbx606f.cpugovernor.app-main-38:/mipmap-xxhdpi/ic_launcher.xml"
+        "merged": "com.tbx606f.cpugovernor.app-release-37:/drawable_bg_core_badge.xml.flat",
+        "source": "com.tbx606f.cpugovernor.app-main-38:/drawable/bg_core_badge.xml"
     },
     {
         "merged": "com.tbx606f.cpugovernor.app-release-37:/drawable_ic_eco.xml.flat",
@@ -46,6 +46,42 @@
     {
         "merged": "com.tbx606f.cpugovernor.app-release-37:/mipmap-xxhdpi_ic_launcher_round.xml.flat",
         "source": "com.tbx606f.cpugovernor.app-main-38:/mipmap-xxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.tbx606f.cpugovernor.app-release-37:/color_switch_thumb_selector.xml.flat",
+        "source": "com.tbx606f.cpugovernor.app-main-38:/color/switch_thumb_selector.xml"
+    },
+    {
+        "merged": "com.tbx606f.cpugovernor.app-release-37:/drawable_bg_profile_btn_active.xml.flat",
+        "source": "com.tbx606f.cpugovernor.app-main-38:/drawable/bg_profile_btn_active.xml"
+    },
+    {
+        "merged": "com.tbx606f.cpugovernor.app-release-37:/mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "com.tbx606f.cpugovernor.app-main-38:/mipmap-xhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.tbx606f.cpugovernor.app-release-37:/drawable_bg_profile_btn.xml.flat",
+        "source": "com.tbx606f.cpugovernor.app-main-38:/drawable/bg_profile_btn.xml"
+    },
+    {
+        "merged": "com.tbx606f.cpugovernor.app-release-37:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "com.tbx606f.cpugovernor.app-main-38:/mipmap-mdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.tbx606f.cpugovernor.app-release-37:/drawable_progress_bar_freq.xml.flat",
+        "source": "com.tbx606f.cpugovernor.app-main-38:/drawable/progress_bar_freq.xml"
+    },
+    {
+        "merged": "com.tbx606f.cpugovernor.app-release-37:/mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "com.tbx606f.cpugovernor.app-main-38:/mipmap-xxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.tbx606f.cpugovernor.app-release-37:/drawable_shape_dot.xml.flat",
+        "source": "com.tbx606f.cpugovernor.app-main-38:/drawable/shape_dot.xml"
+    },
+    {
+        "merged": "com.tbx606f.cpugovernor.app-release-37:/drawable_bg_stat_chip.xml.flat",
+        "source": "com.tbx606f.cpugovernor.app-main-38:/drawable/bg_stat_chip.xml"
     },
     {
         "merged": "com.tbx606f.cpugovernor.app-release-37:/mipmap-mdpi_ic_launcher_round.xml.flat",
@@ -58,9 +94,5 @@
     {
         "merged": "com.tbx606f.cpugovernor.app-release-37:/mipmap-hdpi_ic_launcher_round.xml.flat",
         "source": "com.tbx606f.cpugovernor.app-main-38:/mipmap-hdpi/ic_launcher_round.xml"
-    },
-    {
-        "merged": "com.tbx606f.cpugovernor.app-release-37:/mipmap-xhdpi_ic_launcher.xml.flat",
-        "source": "com.tbx606f.cpugovernor.app-main-38:/mipmap-xhdpi/ic_launcher.xml"
     }
 ]

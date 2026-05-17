@@ -1,21 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="accent">#1565C0</color>
-    <color name="background">#F5F5F5</color>
-    <color name="card_background">#FFFFFF</color>
-    <color name="profile_selected_stroke">#1565C0</color>
-    <color name="temp_hot">#B71C1C</color>
-    <color name="temp_normal">#2E7D32</color>
-    <color name="temp_warm">#E65100</color>
-    <color name="text_primary">#1A1A1A</color>
-    <color name="text_secondary">#555555</color>
-    <color name="text_tertiary">#999999</color>
+    <color name="accent_amber">#F59E0B</color>
+    <color name="accent_blue">#4A9EFF</color>
+    <color name="accent_blue_dim">#1A3A5C</color>
+    <color name="accent_green">#2ECC71</color>
+    <color name="accent_green_dim">#0D3B21</color>
+    <color name="accent_red">#EF4444</color>
+    <color name="bar_bg">#1A1E24</color>
+    <color name="bg_card">#1A1E24</color>
+    <color name="bg_chip">#1E2329</color>
+    <color name="bg_primary">#0D0F12</color>
+    <color name="bg_surface">#13161A</color>
+    <color name="btn_active_bg">#0D1F33</color>
+    <color name="btn_active_border">#4A9EFF</color>
+    <color name="btn_border">#2A3040</color>
+    <color name="divider">#1E2329</color>
+    <color name="switch_off_track">#2A3040</color>
+    <color name="switch_on_track">#4A9EFF</color>
+    <color name="switch_thumb">#E8EAF0</color>
+    <color name="text_dim">#4A5568</color>
+    <color name="text_primary">#E8EAF0</color>
+    <color name="text_secondary">#A8B0BC</color>
     <string name="app_name">CPU Governor</string>
-    <style name="Theme.CpuGovernor" parent="Theme.Material3.Light.NoActionBar">
-        <item name="colorPrimary">@color/accent</item>
-        <item name="colorPrimaryVariant">@color/accent</item>
-        <item name="colorOnPrimary">@android:color/white</item>
-        <item name="android:statusBarColor">@color/background</item>
-        <item name="android:windowLightStatusBar">true</item>
+    <style name="MonoBadge">
+        <item name="android:fontFamily">monospace</item>
+        <item name="android:textSize">8sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">0.04</item>
+        <item name="android:textColor">@color/text_dim</item>
+    </style>
+    <style name="MonoButton">
+        <item name="android:fontFamily">monospace</item>
+        <item name="android:textSize">11sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">0.04</item>
+        <item name="android:textColor">@color/text_secondary</item>
+    </style>
+    <style name="MonoCaption">
+        <item name="android:fontFamily">monospace</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:textColor">@color/text_dim</item>
+    </style>
+    <style name="MonoLabel">
+        <item name="android:fontFamily">monospace</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:letterSpacing">0.08</item>
+        <item name="android:textColor">@color/text_dim</item>
+    </style>
+    <style name="MonoStat">
+        <item name="android:fontFamily">monospace</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/accent_blue</item>
+    </style>
+    <style name="MonoSubTitle">
+        <item name="android:fontFamily">monospace</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">0.06</item>
+        <item name="android:textColor">@color/text_primary</item>
+    </style>
+    <style name="MonoTitle">
+        <item name="android:fontFamily">monospace</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">0.10</item>
+        <item name="android:textColor">@color/text_primary</item>
+    </style>
+    <style name="Theme.CpuGovernor" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/accent_blue</item>
+        <item name="colorPrimaryVariant">@color/accent_blue_dim</item>
+        <item name="colorOnPrimary">@color/text_primary</item>
+        <item name="colorSurface">@color/bg_surface</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="android:windowBackground">@color/bg_primary</item>
+        <item name="android:statusBarColor">@color/bg_surface</item>
+        <item name="android:navigationBarColor">@color/bg_primary</item>
+        <item name="android:windowLightStatusBar">false</item>
     </style>
 </resources>

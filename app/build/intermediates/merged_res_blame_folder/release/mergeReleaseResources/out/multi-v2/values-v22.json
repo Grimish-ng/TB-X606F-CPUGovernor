@@ -4,7 +4,7 @@
             "outputFile": "com.tbx606f.cpugovernor.app-mergeReleaseResources-35:/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "/home/grimish/.gradle/caches/9.5.1/transforms/be8be365af7deb6d3309126069790b46/transformed/appcompat-1.6.1/res/values-v22/values-v22.xml",
+                    "source": "/home/grimish/.gradle/caches/8.10.2/transforms/0a7cc619f234e6c5c82f180caa098e6a/transformed/appcompat-1.6.1/res/values-v22/values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",

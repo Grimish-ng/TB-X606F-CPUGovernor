@@ -4,7 +4,7 @@
             "outputFile": "com.tbx606f.cpugovernor.app-mergeReleaseResources-35:/values-small-v4/values-small-v4.xml",
             "map": [
                 {
-                    "source": "/home/grimish/.gradle/caches/9.5.1/transforms/623fd3c7010130c067e3fd28ee27003a/transformed/material-1.11.0/res/values-small-v4/values-small-v4.xml",
+                    "source": "/home/grimish/.gradle/caches/8.10.2/transforms/3a1d99553b1f35b2de935bb82f9b6182/transformed/material-1.11.0/res/values-small-v4/values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

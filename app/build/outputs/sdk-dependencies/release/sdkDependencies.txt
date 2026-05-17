@@ -946,8 +946,8 @@ library_dependencies {
 library_dependencies {
   library_index: 22
   library_dep_index: 19
-  library_dep_index: 21
   library_dep_index: 20
+  library_dep_index: 21
 }
 library_dependencies {
   library_index: 23

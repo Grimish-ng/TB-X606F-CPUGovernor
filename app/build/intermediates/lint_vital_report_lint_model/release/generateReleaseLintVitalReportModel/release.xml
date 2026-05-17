@@ -27,6 +27,6 @@
       applicationId="com.tbx606f.cpugovernor"
       generatedSourceFolders="build/generated/ap_generated_sources/release/out:build/generated/data_binding_base_class_source_out/release/out"
       generatedResourceFolders="build/generated/res/resValues/release"
-      desugaredMethodsFiles="/home/grimish/.gradle/caches/9.5.1/transforms/4e6be4db76e7773d86e20700a3e993a3/transformed/D8BackportedDesugaredMethods.txt">
+      desugaredMethodsFiles="/home/grimish/.gradle/caches/8.10.2/transforms/8f146a9b41922fbb6ad2e9be1364256e/transformed/D8BackportedDesugaredMethods.txt">
   </artifact>
 </variant>

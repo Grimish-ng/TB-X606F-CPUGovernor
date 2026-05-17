@@ -2,13 +2,58 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:padding="8dp">
+    android:orientation="vertical"
+    android:paddingVertical="7dp">
 
-    <TextView
-        android:id="@+id/textCore"
-        android:layout_width="wrap_content"
+    <LinearLayout
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="16sp"
-        android:textStyle="bold" />
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="5dp">
+
+        <TextView
+            android:id="@+id/textCore"
+            android:layout_width="36dp"
+            android:layout_height="20dp"
+            android:background="@drawable/bg_core_badge"
+            android:gravity="center"
+            android:text="CPU0"
+            android:fontFamily="monospace"
+            android:textSize="8sp"
+            android:textStyle="bold"
+            android:textColor="@color/text_dim" />
+
+        <TextView
+            android:id="@+id/textGovernor"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginStart="10dp"
+            android:text="schedutil"
+            android:fontFamily="monospace"
+            android:textSize="10sp"
+            android:textColor="@color/text_dim" />
+
+        <TextView
+            android:id="@+id/textFreq"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="idle"
+            android:fontFamily="monospace"
+            android:textSize="10sp"
+            android:textColor="@color/accent_blue" />
+
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/progressFreq"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="4dp"
+        android:max="100"
+        android:progress="60"
+        android:progressDrawable="@drawable/progress_bar_freq"
+        android:background="@color/bar_bg" />
 
 </LinearLayout>

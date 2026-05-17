@@ -4,54 +4,54 @@ ADDED from /home/grimish/Desktop/DEVICEMODS/TB-X606F/CPUGovernor/app/src/main/An
 INJECTED from /home/grimish/Desktop/DEVICEMODS/TB-X606F/CPUGovernor/app/src/main/AndroidManifest.xml:2:1-36:12
 INJECTED from /home/grimish/Desktop/DEVICEMODS/TB-X606F/CPUGovernor/app/src/main/AndroidManifest.xml:2:1-36:12
 INJECTED from /home/grimish/Desktop/DEVICEMODS/TB-X606F/CPUGovernor/app/src/main/AndroidManifest.xml:2:1-36:12
-MERGED from [androidx.databinding:viewbinding:8.5.0] /home/grimish/.gradle/caches/9.5.1/transforms/bf694fbfebe93d2257384b5d48f85b3f/transformed/viewbinding-8.5.0/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.material:material:1.11.0] /home/grimish/.gradle/caches/9.5.1/transforms/623fd3c7010130c067e3fd28ee27003a/transformed/material-1.11.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/grimish/.gradle/caches/9.5.1/transforms/be59b4ff4238445af271c990f29c75ac/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/grimish/.gradle/caches/9.5.1/transforms/8c9b7afaba9fb3b69d96f771f31466f5/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.appcompat:appcompat:1.6.1] /home/grimish/.gradle/caches/9.5.1/transforms/be8be365af7deb6d3309126069790b46/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/792b8f77359b247a1516645a0521e504/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.3.6] /home/grimish/.gradle/caches/9.5.1/transforms/87342e725b2f59af6be40a051d113d6b/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.9.0] /home/grimish/.gradle/caches/9.5.1/transforms/f2fc79cf92c80453a663005e10f9106e/transformed/activity-1.9.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity-ktx:1.9.0] /home/grimish/.gradle/caches/9.5.1/transforms/f0fa7e44b53e426bd986a531aaf0ad30/transformed/activity-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/grimish/.gradle/caches/9.5.1/transforms/cac042fb55b6667b0e96a207afa874c4/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2:1.2.0] /home/grimish/.gradle/caches/9.5.1/transforms/6742d8132d5c2d1464ec5065011fa48b/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/grimish/.gradle/caches/9.5.1/transforms/4282d3b1db6035378f93e6a3a9b0d16b/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.2.1] /home/grimish/.gradle/caches/9.5.1/transforms/cd21fb02f53628d299b16fffc3c2ccef/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/4182eba86857a018a42bcc1009c7026c/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/7ba1384303da9a7186cd5794672ba4e8/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/8bd77469754e003a65f49ae805bdc012/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/28dc1d13a37fac4ae649eded3cd38d6d/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/a840a07b24f8a71d38636bd7aabf8418/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/2d04d6270b1d2528ac00d0c935b7f11d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/c5074541c8a0de5b464522134a59798a/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/27003331d21d000a808042054b4f10a2/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/5d5abd4b304077828fb22c401382b917/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core-ktx:1.13.0] /home/grimish/.gradle/caches/9.5.1/transforms/21a03553ded034aebce94feebf39cbeb/transformed/core-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/grimish/.gradle/caches/9.5.1/transforms/a1e90bb234b204fe08cd87f5ac61b118/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/grimish/.gradle/caches/9.5.1/transforms/bb7aeba83d106904c08396020e61eb3d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.2.0] /home/grimish/.gradle/caches/9.5.1/transforms/a835356bb530abe1c14bedcffbe37397/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/grimish/.gradle/caches/9.5.1/transforms/9f17fca46cb3c5a6c3c472361700d505/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/grimish/.gradle/caches/9.5.1/transforms/62a7eaab8d1e852b6a89d0367db3e186/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/50624570a0d504c1724d13c1c3ae0a39/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/grimish/.gradle/caches/9.5.1/transforms/1c8e9e59d186a826b406db32eade0e84/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.1.0] /home/grimish/.gradle/caches/9.5.1/transforms/a4c33e08634f97232cdc0ad9cb5d40b4/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/9.5.1/transforms/98b0ccc4a1e77c51edcad445b17ac54f/transformed/core-1.13.0/AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/dc776eafac1c62e2802377425f3acbc2/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/eb460e72c15bfe420332ea3d10b58e28/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/b5399d476c2b4976a2729d1856ca3cb5/transformed/lifecycle-livedata-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/851f53c7b071cd4830b9ddacb6ade653/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/eefffee8cc3a878fdd39706deef3535d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/7dca4d0fc0c9ccb0b7d78a0903dd5130/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/grimish/.gradle/caches/9.5.1/transforms/6ca3082aa51520c69b1248758e3eb242/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/9.5.1/transforms/1afa3dce58529f495fc7053833da81ee/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
-MERGED from [androidx.startup:startup-runtime:1.1.1] /home/grimish/.gradle/caches/9.5.1/transforms/5002f55104ca21d21ca24c7fa4b5b65e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.tracing:tracing:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/a967c55a00a6f95c98c55f5fd1205bdc/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/grimish/.gradle/caches/9.5.1/transforms/57def78051d5d05cd1f01cc678dd55b9/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/64112244fb27cb35da74dd640259ac99/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/af6b3d7c6fceb0e7606a4c130c64594b/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/04cbbd8fd2744fb117708ff739b74767/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/3944f0581fb5fd160802116c07526c15/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/grimish/.gradle/caches/9.5.1/transforms/6af6887bb7d0eb1f4bd11169b800bd01/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:viewbinding:8.5.0] /home/grimish/.gradle/caches/8.10.2/transforms/a93c182febbd062182e6e72e96add827/transformed/viewbinding-8.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.11.0] /home/grimish/.gradle/caches/8.10.2/transforms/3a1d99553b1f35b2de935bb82f9b6182/transformed/material-1.11.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/grimish/.gradle/caches/8.10.2/transforms/0577d460526fd784fe7028ef24ef5694/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/grimish/.gradle/caches/8.10.2/transforms/2f6ffdb07c8fb1703c679e5c6ebb4c32/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/grimish/.gradle/caches/8.10.2/transforms/0a7cc619f234e6c5c82f180caa098e6a/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/1406373e964e595a7d7e29124f2c448b/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/grimish/.gradle/caches/8.10.2/transforms/2cf443218c58d355ce2773c605bfd3e5/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.9.0] /home/grimish/.gradle/caches/8.10.2/transforms/bfbc960cf0bcfdae1c61d4666d3e11a5/transformed/activity-1.9.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.9.0] /home/grimish/.gradle/caches/8.10.2/transforms/ebee98a46cc4f87eb571031cc47fd993/transformed/activity-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/grimish/.gradle/caches/8.10.2/transforms/5d3d1a926ae0c3d21177649a984ce17d/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/grimish/.gradle/caches/8.10.2/transforms/3e3fff953e20194b3b6ea29b96d56c33/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/grimish/.gradle/caches/8.10.2/transforms/13bbe09c51b7b84963fa753fc3ebb84e/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/grimish/.gradle/caches/8.10.2/transforms/88aa8367a69a0c8322269fdb71b94894/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/95fbc580ce2dbe0dfc8ec21a956860cc/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/0714dfd2b6d14711a9d4fb66d1755ec8/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/2568c569a4b2bef754cafa4cf3c33b4b/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/80320ce1d164bee5f49b0b22252455dd/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/448c648baac5894f54ca8a6a746f4052/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/e0f8e3426b5088abfdc112410f0b4291/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/1e8857cb9dc98ca6d08ee1b5ffc21e77/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/8b7aa5786742dad19cc7d5aac82efd5d/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/0a8d054190c91708ebbaf99d932c467f/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.0] /home/grimish/.gradle/caches/8.10.2/transforms/984d000a5d1de546f9698b685790db6c/transformed/core-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/grimish/.gradle/caches/8.10.2/transforms/98144140a2dc9d6fb12a5422fcf42949/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/grimish/.gradle/caches/8.10.2/transforms/5af402ef2d0f6ae44bba7e728745e940/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/grimish/.gradle/caches/8.10.2/transforms/cfb61cf629293e71a344603db7764859/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/grimish/.gradle/caches/8.10.2/transforms/cb8ec71f38832692c995bb7e4a18b7d6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/grimish/.gradle/caches/8.10.2/transforms/6e7edd73614c8331dffa430548ff4e82/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/30ab0053a8904d74422db7c57acb1ddf/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/grimish/.gradle/caches/8.10.2/transforms/2f2810f05bb26677f0813c8b34795b7b/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /home/grimish/.gradle/caches/8.10.2/transforms/eb662a765a723f6fc44c30fa5d210d7b/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/8.10.2/transforms/1e42f52a1e7dbbaf5c4020a505c2c252/transformed/core-1.13.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/5d52cfd5463530da5901eec8ca389328/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/71a636e0488ef216586f2a342842fcd0/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/2ff2728b3d9bbbbfd72bcffe612726b6/transformed/lifecycle-livedata-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/ff93608bb5d10d31f5c92da14d2d8c1c/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/grimish/.gradle/caches/8.10.2/transforms/5347e293589bc8e3cc47fbb3b4fbf64a/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/6570a6f6aac8cf5dd19b51cbfb4d8e7d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/0dbcea28efae47380df0a317f0dfeab3/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/grimish/.gradle/caches/8.10.2/transforms/9f3dde7554252bd9153802a08d3825bb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/8.10.2/transforms/f29f6041d2baa64d4641efdbcbbc38ce/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/grimish/.gradle/caches/8.10.2/transforms/ca626f57b6f080d04692fe79499bc78c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/fab561026930192831eb0fc02a1b02b7/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/grimish/.gradle/caches/8.10.2/transforms/81239b6ab839887e833cf10ad2ade875/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/86182b41b0325096102f6245d0a74941/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/9700712c361bca4870ecbbd55b2be9d4/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/4ca1b2f320878b6240cd9b7a6cf726e4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/75ae6a17d45f20a04f5855a9968044fe/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 	package
 		INJECTED from /home/grimish/Desktop/DEVICEMODS/TB-X606F/CPUGovernor/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -67,26 +67,26 @@ ADDED from /home/grimish/Desktop/DEVICEMODS/TB-X606F/CPUGovernor/app/src/main/An
 application
 ADDED from /home/grimish/Desktop/DEVICEMODS/TB-X606F/CPUGovernor/app/src/main/AndroidManifest.xml:6:5-34:19
 INJECTED from /home/grimish/Desktop/DEVICEMODS/TB-X606F/CPUGovernor/app/src/main/AndroidManifest.xml:6:5-34:19
-MERGED from [com.google.android.material:material:1.11.0] /home/grimish/.gradle/caches/9.5.1/transforms/623fd3c7010130c067e3fd28ee27003a/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.11.0] /home/grimish/.gradle/caches/9.5.1/transforms/623fd3c7010130c067e3fd28ee27003a/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/grimish/.gradle/caches/9.5.1/transforms/be59b4ff4238445af271c990f29c75ac/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/grimish/.gradle/caches/9.5.1/transforms/be59b4ff4238445af271c990f29c75ac/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
-MERGED from [androidx.emoji2:emoji2:1.2.0] /home/grimish/.gradle/caches/9.5.1/transforms/6742d8132d5c2d1464ec5065011fa48b/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.2.0] /home/grimish/.gradle/caches/9.5.1/transforms/6742d8132d5c2d1464ec5065011fa48b/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/8bd77469754e003a65f49ae805bdc012/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/8bd77469754e003a65f49ae805bdc012/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/9.5.1/transforms/98b0ccc4a1e77c51edcad445b17ac54f/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/9.5.1/transforms/98b0ccc4a1e77c51edcad445b17ac54f/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/grimish/.gradle/caches/9.5.1/transforms/6ca3082aa51520c69b1248758e3eb242/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/grimish/.gradle/caches/9.5.1/transforms/6ca3082aa51520c69b1248758e3eb242/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/9.5.1/transforms/1afa3dce58529f495fc7053833da81ee/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/9.5.1/transforms/1afa3dce58529f495fc7053833da81ee/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /home/grimish/.gradle/caches/9.5.1/transforms/5002f55104ca21d21ca24c7fa4b5b65e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /home/grimish/.gradle/caches/9.5.1/transforms/5002f55104ca21d21ca24c7fa4b5b65e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.material:material:1.11.0] /home/grimish/.gradle/caches/8.10.2/transforms/3a1d99553b1f35b2de935bb82f9b6182/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] /home/grimish/.gradle/caches/8.10.2/transforms/3a1d99553b1f35b2de935bb82f9b6182/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/grimish/.gradle/caches/8.10.2/transforms/0577d460526fd784fe7028ef24ef5694/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/grimish/.gradle/caches/8.10.2/transforms/0577d460526fd784fe7028ef24ef5694/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/grimish/.gradle/caches/8.10.2/transforms/3e3fff953e20194b3b6ea29b96d56c33/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/grimish/.gradle/caches/8.10.2/transforms/3e3fff953e20194b3b6ea29b96d56c33/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/2568c569a4b2bef754cafa4cf3c33b4b/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/2568c569a4b2bef754cafa4cf3c33b4b/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/8.10.2/transforms/1e42f52a1e7dbbaf5c4020a505c2c252/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/8.10.2/transforms/1e42f52a1e7dbbaf5c4020a505c2c252/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/grimish/.gradle/caches/8.10.2/transforms/9f3dde7554252bd9153802a08d3825bb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/grimish/.gradle/caches/8.10.2/transforms/9f3dde7554252bd9153802a08d3825bb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/8.10.2/transforms/f29f6041d2baa64d4641efdbcbbc38ce/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/8.10.2/transforms/f29f6041d2baa64d4641efdbcbbc38ce/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/grimish/.gradle/caches/8.10.2/transforms/ca626f57b6f080d04692fe79499bc78c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/grimish/.gradle/caches/8.10.2/transforms/ca626f57b6f080d04692fe79499bc78c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
 		INJECTED from /home/grimish/Desktop/DEVICEMODS/TB-X606F/CPUGovernor/app/src/main/AndroidManifest.xml
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/9.5.1/transforms/98b0ccc4a1e77c51edcad445b17ac54f/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/8.10.2/transforms/1e42f52a1e7dbbaf5c4020a505c2c252/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
 		ADDED from /home/grimish/Desktop/DEVICEMODS/TB-X606F/CPUGovernor/app/src/main/AndroidManifest.xml:12:9-35
 	android:label
@@ -135,193 +135,193 @@ uses-sdk
 INJECTED from /home/grimish/Desktop/DEVICEMODS/TB-X606F/CPUGovernor/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/grimish/Desktop/DEVICEMODS/TB-X606F/CPUGovernor/app/src/main/AndroidManifest.xml
 INJECTED from /home/grimish/Desktop/DEVICEMODS/TB-X606F/CPUGovernor/app/src/main/AndroidManifest.xml
-MERGED from [androidx.databinding:viewbinding:8.5.0] /home/grimish/.gradle/caches/9.5.1/transforms/bf694fbfebe93d2257384b5d48f85b3f/transformed/viewbinding-8.5.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.databinding:viewbinding:8.5.0] /home/grimish/.gradle/caches/9.5.1/transforms/bf694fbfebe93d2257384b5d48f85b3f/transformed/viewbinding-8.5.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.material:material:1.11.0] /home/grimish/.gradle/caches/9.5.1/transforms/623fd3c7010130c067e3fd28ee27003a/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.11.0] /home/grimish/.gradle/caches/9.5.1/transforms/623fd3c7010130c067e3fd28ee27003a/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/grimish/.gradle/caches/9.5.1/transforms/be59b4ff4238445af271c990f29c75ac/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/grimish/.gradle/caches/9.5.1/transforms/be59b4ff4238445af271c990f29c75ac/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/grimish/.gradle/caches/9.5.1/transforms/8c9b7afaba9fb3b69d96f771f31466f5/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/grimish/.gradle/caches/9.5.1/transforms/8c9b7afaba9fb3b69d96f771f31466f5/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.6.1] /home/grimish/.gradle/caches/9.5.1/transforms/be8be365af7deb6d3309126069790b46/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.6.1] /home/grimish/.gradle/caches/9.5.1/transforms/be8be365af7deb6d3309126069790b46/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/792b8f77359b247a1516645a0521e504/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/792b8f77359b247a1516645a0521e504/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.3.6] /home/grimish/.gradle/caches/9.5.1/transforms/87342e725b2f59af6be40a051d113d6b/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.3.6] /home/grimish/.gradle/caches/9.5.1/transforms/87342e725b2f59af6be40a051d113d6b/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.9.0] /home/grimish/.gradle/caches/9.5.1/transforms/f2fc79cf92c80453a663005e10f9106e/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.9.0] /home/grimish/.gradle/caches/9.5.1/transforms/f2fc79cf92c80453a663005e10f9106e/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity-ktx:1.9.0] /home/grimish/.gradle/caches/9.5.1/transforms/f0fa7e44b53e426bd986a531aaf0ad30/transformed/activity-ktx-1.9.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-ktx:1.9.0] /home/grimish/.gradle/caches/9.5.1/transforms/f0fa7e44b53e426bd986a531aaf0ad30/transformed/activity-ktx-1.9.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/grimish/.gradle/caches/9.5.1/transforms/cac042fb55b6667b0e96a207afa874c4/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/grimish/.gradle/caches/9.5.1/transforms/cac042fb55b6667b0e96a207afa874c4/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2:1.2.0] /home/grimish/.gradle/caches/9.5.1/transforms/6742d8132d5c2d1464ec5065011fa48b/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.2.0] /home/grimish/.gradle/caches/9.5.1/transforms/6742d8132d5c2d1464ec5065011fa48b/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/grimish/.gradle/caches/9.5.1/transforms/4282d3b1db6035378f93e6a3a9b0d16b/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/grimish/.gradle/caches/9.5.1/transforms/4282d3b1db6035378f93e6a3a9b0d16b/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] /home/grimish/.gradle/caches/9.5.1/transforms/cd21fb02f53628d299b16fffc3c2ccef/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] /home/grimish/.gradle/caches/9.5.1/transforms/cd21fb02f53628d299b16fffc3c2ccef/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/4182eba86857a018a42bcc1009c7026c/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/4182eba86857a018a42bcc1009c7026c/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/7ba1384303da9a7186cd5794672ba4e8/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/7ba1384303da9a7186cd5794672ba4e8/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/8bd77469754e003a65f49ae805bdc012/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/8bd77469754e003a65f49ae805bdc012/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/28dc1d13a37fac4ae649eded3cd38d6d/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/28dc1d13a37fac4ae649eded3cd38d6d/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/a840a07b24f8a71d38636bd7aabf8418/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/a840a07b24f8a71d38636bd7aabf8418/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/2d04d6270b1d2528ac00d0c935b7f11d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/2d04d6270b1d2528ac00d0c935b7f11d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/c5074541c8a0de5b464522134a59798a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/c5074541c8a0de5b464522134a59798a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/27003331d21d000a808042054b4f10a2/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/27003331d21d000a808042054b4f10a2/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/5d5abd4b304077828fb22c401382b917/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/5d5abd4b304077828fb22c401382b917/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core-ktx:1.13.0] /home/grimish/.gradle/caches/9.5.1/transforms/21a03553ded034aebce94feebf39cbeb/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.13.0] /home/grimish/.gradle/caches/9.5.1/transforms/21a03553ded034aebce94feebf39cbeb/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/grimish/.gradle/caches/9.5.1/transforms/a1e90bb234b204fe08cd87f5ac61b118/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/grimish/.gradle/caches/9.5.1/transforms/a1e90bb234b204fe08cd87f5ac61b118/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/grimish/.gradle/caches/9.5.1/transforms/bb7aeba83d106904c08396020e61eb3d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/grimish/.gradle/caches/9.5.1/transforms/bb7aeba83d106904c08396020e61eb3d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] /home/grimish/.gradle/caches/9.5.1/transforms/a835356bb530abe1c14bedcffbe37397/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] /home/grimish/.gradle/caches/9.5.1/transforms/a835356bb530abe1c14bedcffbe37397/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/grimish/.gradle/caches/9.5.1/transforms/9f17fca46cb3c5a6c3c472361700d505/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/grimish/.gradle/caches/9.5.1/transforms/9f17fca46cb3c5a6c3c472361700d505/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/grimish/.gradle/caches/9.5.1/transforms/62a7eaab8d1e852b6a89d0367db3e186/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/grimish/.gradle/caches/9.5.1/transforms/62a7eaab8d1e852b6a89d0367db3e186/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/50624570a0d504c1724d13c1c3ae0a39/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/50624570a0d504c1724d13c1c3ae0a39/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/grimish/.gradle/caches/9.5.1/transforms/1c8e9e59d186a826b406db32eade0e84/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/grimish/.gradle/caches/9.5.1/transforms/1c8e9e59d186a826b406db32eade0e84/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] /home/grimish/.gradle/caches/9.5.1/transforms/a4c33e08634f97232cdc0ad9cb5d40b4/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] /home/grimish/.gradle/caches/9.5.1/transforms/a4c33e08634f97232cdc0ad9cb5d40b4/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/9.5.1/transforms/98b0ccc4a1e77c51edcad445b17ac54f/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/9.5.1/transforms/98b0ccc4a1e77c51edcad445b17ac54f/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/dc776eafac1c62e2802377425f3acbc2/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/dc776eafac1c62e2802377425f3acbc2/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/eb460e72c15bfe420332ea3d10b58e28/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/eb460e72c15bfe420332ea3d10b58e28/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/b5399d476c2b4976a2729d1856ca3cb5/transformed/lifecycle-livedata-ktx-2.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/b5399d476c2b4976a2729d1856ca3cb5/transformed/lifecycle-livedata-ktx-2.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/851f53c7b071cd4830b9ddacb6ade653/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/851f53c7b071cd4830b9ddacb6ade653/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/eefffee8cc3a878fdd39706deef3535d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/eefffee8cc3a878fdd39706deef3535d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/7dca4d0fc0c9ccb0b7d78a0903dd5130/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/7dca4d0fc0c9ccb0b7d78a0903dd5130/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/grimish/.gradle/caches/9.5.1/transforms/6ca3082aa51520c69b1248758e3eb242/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/grimish/.gradle/caches/9.5.1/transforms/6ca3082aa51520c69b1248758e3eb242/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/9.5.1/transforms/1afa3dce58529f495fc7053833da81ee/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/9.5.1/transforms/1afa3dce58529f495fc7053833da81ee/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
-MERGED from [androidx.startup:startup-runtime:1.1.1] /home/grimish/.gradle/caches/9.5.1/transforms/5002f55104ca21d21ca24c7fa4b5b65e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] /home/grimish/.gradle/caches/9.5.1/transforms/5002f55104ca21d21ca24c7fa4b5b65e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.tracing:tracing:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/a967c55a00a6f95c98c55f5fd1205bdc/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/a967c55a00a6f95c98c55f5fd1205bdc/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/grimish/.gradle/caches/9.5.1/transforms/57def78051d5d05cd1f01cc678dd55b9/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/grimish/.gradle/caches/9.5.1/transforms/57def78051d5d05cd1f01cc678dd55b9/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/64112244fb27cb35da74dd640259ac99/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/64112244fb27cb35da74dd640259ac99/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/af6b3d7c6fceb0e7606a4c130c64594b/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/af6b3d7c6fceb0e7606a4c130c64594b/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/04cbbd8fd2744fb117708ff739b74767/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/04cbbd8fd2744fb117708ff739b74767/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/3944f0581fb5fd160802116c07526c15/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/grimish/.gradle/caches/9.5.1/transforms/3944f0581fb5fd160802116c07526c15/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/grimish/.gradle/caches/9.5.1/transforms/6af6887bb7d0eb1f4bd11169b800bd01/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/grimish/.gradle/caches/9.5.1/transforms/6af6887bb7d0eb1f4bd11169b800bd01/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.5.0] /home/grimish/.gradle/caches/8.10.2/transforms/a93c182febbd062182e6e72e96add827/transformed/viewbinding-8.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.5.0] /home/grimish/.gradle/caches/8.10.2/transforms/a93c182febbd062182e6e72e96add827/transformed/viewbinding-8.5.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.11.0] /home/grimish/.gradle/caches/8.10.2/transforms/3a1d99553b1f35b2de935bb82f9b6182/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] /home/grimish/.gradle/caches/8.10.2/transforms/3a1d99553b1f35b2de935bb82f9b6182/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/grimish/.gradle/caches/8.10.2/transforms/0577d460526fd784fe7028ef24ef5694/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/grimish/.gradle/caches/8.10.2/transforms/0577d460526fd784fe7028ef24ef5694/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/grimish/.gradle/caches/8.10.2/transforms/2f6ffdb07c8fb1703c679e5c6ebb4c32/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/grimish/.gradle/caches/8.10.2/transforms/2f6ffdb07c8fb1703c679e5c6ebb4c32/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/grimish/.gradle/caches/8.10.2/transforms/0a7cc619f234e6c5c82f180caa098e6a/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/grimish/.gradle/caches/8.10.2/transforms/0a7cc619f234e6c5c82f180caa098e6a/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/1406373e964e595a7d7e29124f2c448b/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/1406373e964e595a7d7e29124f2c448b/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/grimish/.gradle/caches/8.10.2/transforms/2cf443218c58d355ce2773c605bfd3e5/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/grimish/.gradle/caches/8.10.2/transforms/2cf443218c58d355ce2773c605bfd3e5/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.9.0] /home/grimish/.gradle/caches/8.10.2/transforms/bfbc960cf0bcfdae1c61d4666d3e11a5/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.0] /home/grimish/.gradle/caches/8.10.2/transforms/bfbc960cf0bcfdae1c61d4666d3e11a5/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] /home/grimish/.gradle/caches/8.10.2/transforms/ebee98a46cc4f87eb571031cc47fd993/transformed/activity-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] /home/grimish/.gradle/caches/8.10.2/transforms/ebee98a46cc4f87eb571031cc47fd993/transformed/activity-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/grimish/.gradle/caches/8.10.2/transforms/5d3d1a926ae0c3d21177649a984ce17d/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/grimish/.gradle/caches/8.10.2/transforms/5d3d1a926ae0c3d21177649a984ce17d/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/grimish/.gradle/caches/8.10.2/transforms/3e3fff953e20194b3b6ea29b96d56c33/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/grimish/.gradle/caches/8.10.2/transforms/3e3fff953e20194b3b6ea29b96d56c33/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/grimish/.gradle/caches/8.10.2/transforms/13bbe09c51b7b84963fa753fc3ebb84e/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/grimish/.gradle/caches/8.10.2/transforms/13bbe09c51b7b84963fa753fc3ebb84e/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/grimish/.gradle/caches/8.10.2/transforms/88aa8367a69a0c8322269fdb71b94894/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/grimish/.gradle/caches/8.10.2/transforms/88aa8367a69a0c8322269fdb71b94894/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/95fbc580ce2dbe0dfc8ec21a956860cc/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/95fbc580ce2dbe0dfc8ec21a956860cc/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/0714dfd2b6d14711a9d4fb66d1755ec8/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/0714dfd2b6d14711a9d4fb66d1755ec8/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/2568c569a4b2bef754cafa4cf3c33b4b/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/2568c569a4b2bef754cafa4cf3c33b4b/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/80320ce1d164bee5f49b0b22252455dd/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/80320ce1d164bee5f49b0b22252455dd/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/448c648baac5894f54ca8a6a746f4052/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/448c648baac5894f54ca8a6a746f4052/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/e0f8e3426b5088abfdc112410f0b4291/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/e0f8e3426b5088abfdc112410f0b4291/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/1e8857cb9dc98ca6d08ee1b5ffc21e77/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/1e8857cb9dc98ca6d08ee1b5ffc21e77/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/8b7aa5786742dad19cc7d5aac82efd5d/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/8b7aa5786742dad19cc7d5aac82efd5d/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/0a8d054190c91708ebbaf99d932c467f/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/0a8d054190c91708ebbaf99d932c467f/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /home/grimish/.gradle/caches/8.10.2/transforms/984d000a5d1de546f9698b685790db6c/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /home/grimish/.gradle/caches/8.10.2/transforms/984d000a5d1de546f9698b685790db6c/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/grimish/.gradle/caches/8.10.2/transforms/98144140a2dc9d6fb12a5422fcf42949/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/grimish/.gradle/caches/8.10.2/transforms/98144140a2dc9d6fb12a5422fcf42949/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/grimish/.gradle/caches/8.10.2/transforms/5af402ef2d0f6ae44bba7e728745e940/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/grimish/.gradle/caches/8.10.2/transforms/5af402ef2d0f6ae44bba7e728745e940/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/grimish/.gradle/caches/8.10.2/transforms/cfb61cf629293e71a344603db7764859/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/grimish/.gradle/caches/8.10.2/transforms/cfb61cf629293e71a344603db7764859/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/grimish/.gradle/caches/8.10.2/transforms/cb8ec71f38832692c995bb7e4a18b7d6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/grimish/.gradle/caches/8.10.2/transforms/cb8ec71f38832692c995bb7e4a18b7d6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/grimish/.gradle/caches/8.10.2/transforms/6e7edd73614c8331dffa430548ff4e82/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/grimish/.gradle/caches/8.10.2/transforms/6e7edd73614c8331dffa430548ff4e82/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/30ab0053a8904d74422db7c57acb1ddf/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/30ab0053a8904d74422db7c57acb1ddf/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/grimish/.gradle/caches/8.10.2/transforms/2f2810f05bb26677f0813c8b34795b7b/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/grimish/.gradle/caches/8.10.2/transforms/2f2810f05bb26677f0813c8b34795b7b/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/grimish/.gradle/caches/8.10.2/transforms/eb662a765a723f6fc44c30fa5d210d7b/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/grimish/.gradle/caches/8.10.2/transforms/eb662a765a723f6fc44c30fa5d210d7b/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/8.10.2/transforms/1e42f52a1e7dbbaf5c4020a505c2c252/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/8.10.2/transforms/1e42f52a1e7dbbaf5c4020a505c2c252/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/5d52cfd5463530da5901eec8ca389328/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/5d52cfd5463530da5901eec8ca389328/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/71a636e0488ef216586f2a342842fcd0/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/71a636e0488ef216586f2a342842fcd0/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/2ff2728b3d9bbbbfd72bcffe612726b6/transformed/lifecycle-livedata-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/2ff2728b3d9bbbbfd72bcffe612726b6/transformed/lifecycle-livedata-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/ff93608bb5d10d31f5c92da14d2d8c1c/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/ff93608bb5d10d31f5c92da14d2d8c1c/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/grimish/.gradle/caches/8.10.2/transforms/5347e293589bc8e3cc47fbb3b4fbf64a/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/grimish/.gradle/caches/8.10.2/transforms/5347e293589bc8e3cc47fbb3b4fbf64a/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/6570a6f6aac8cf5dd19b51cbfb4d8e7d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/6570a6f6aac8cf5dd19b51cbfb4d8e7d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/0dbcea28efae47380df0a317f0dfeab3/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/0dbcea28efae47380df0a317f0dfeab3/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/grimish/.gradle/caches/8.10.2/transforms/9f3dde7554252bd9153802a08d3825bb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/grimish/.gradle/caches/8.10.2/transforms/9f3dde7554252bd9153802a08d3825bb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/8.10.2/transforms/f29f6041d2baa64d4641efdbcbbc38ce/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/8.10.2/transforms/f29f6041d2baa64d4641efdbcbbc38ce/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/grimish/.gradle/caches/8.10.2/transforms/ca626f57b6f080d04692fe79499bc78c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/grimish/.gradle/caches/8.10.2/transforms/ca626f57b6f080d04692fe79499bc78c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/fab561026930192831eb0fc02a1b02b7/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/fab561026930192831eb0fc02a1b02b7/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/grimish/.gradle/caches/8.10.2/transforms/81239b6ab839887e833cf10ad2ade875/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/grimish/.gradle/caches/8.10.2/transforms/81239b6ab839887e833cf10ad2ade875/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/86182b41b0325096102f6245d0a74941/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/86182b41b0325096102f6245d0a74941/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/9700712c361bca4870ecbbd55b2be9d4/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/9700712c361bca4870ecbbd55b2be9d4/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/4ca1b2f320878b6240cd9b7a6cf726e4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/4ca1b2f320878b6240cd9b7a6cf726e4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/75ae6a17d45f20a04f5855a9968044fe/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/grimish/.gradle/caches/8.10.2/transforms/75ae6a17d45f20a04f5855a9968044fe/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
 		INJECTED from /home/grimish/Desktop/DEVICEMODS/TB-X606F/CPUGovernor/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /home/grimish/Desktop/DEVICEMODS/TB-X606F/CPUGovernor/app/src/main/AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.2.0] /home/grimish/.gradle/caches/9.5.1/transforms/6742d8132d5c2d1464ec5065011fa48b/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/8bd77469754e003a65f49ae805bdc012/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/8bd77469754e003a65f49ae805bdc012/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/9.5.1/transforms/1afa3dce58529f495fc7053833da81ee/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/9.5.1/transforms/1afa3dce58529f495fc7053833da81ee/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] /home/grimish/.gradle/caches/9.5.1/transforms/5002f55104ca21d21ca24c7fa4b5b65e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] /home/grimish/.gradle/caches/9.5.1/transforms/5002f55104ca21d21ca24c7fa4b5b65e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/grimish/.gradle/caches/8.10.2/transforms/3e3fff953e20194b3b6ea29b96d56c33/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/2568c569a4b2bef754cafa4cf3c33b4b/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/2568c569a4b2bef754cafa4cf3c33b4b/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/8.10.2/transforms/f29f6041d2baa64d4641efdbcbbc38ce/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/8.10.2/transforms/f29f6041d2baa64d4641efdbcbbc38ce/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/grimish/.gradle/caches/8.10.2/transforms/ca626f57b6f080d04692fe79499bc78c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/grimish/.gradle/caches/8.10.2/transforms/ca626f57b6f080d04692fe79499bc78c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
 	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/grimish/.gradle/caches/9.5.1/transforms/6742d8132d5c2d1464ec5065011fa48b/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/grimish/.gradle/caches/8.10.2/transforms/3e3fff953e20194b3b6ea29b96d56c33/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
 	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/grimish/.gradle/caches/9.5.1/transforms/6742d8132d5c2d1464ec5065011fa48b/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/grimish/.gradle/caches/8.10.2/transforms/3e3fff953e20194b3b6ea29b96d56c33/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
 	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/grimish/.gradle/caches/9.5.1/transforms/6742d8132d5c2d1464ec5065011fa48b/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/grimish/.gradle/caches/8.10.2/transforms/3e3fff953e20194b3b6ea29b96d56c33/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/grimish/.gradle/caches/9.5.1/transforms/6742d8132d5c2d1464ec5065011fa48b/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/grimish/.gradle/caches/8.10.2/transforms/3e3fff953e20194b3b6ea29b96d56c33/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
 meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.2.0] /home/grimish/.gradle/caches/9.5.1/transforms/6742d8132d5c2d1464ec5065011fa48b/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/grimish/.gradle/caches/8.10.2/transforms/3e3fff953e20194b3b6ea29b96d56c33/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/grimish/.gradle/caches/9.5.1/transforms/6742d8132d5c2d1464ec5065011fa48b/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/grimish/.gradle/caches/8.10.2/transforms/3e3fff953e20194b3b6ea29b96d56c33/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/grimish/.gradle/caches/9.5.1/transforms/6742d8132d5c2d1464ec5065011fa48b/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/grimish/.gradle/caches/8.10.2/transforms/3e3fff953e20194b3b6ea29b96d56c33/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
 meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/8bd77469754e003a65f49ae805bdc012/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/2568c569a4b2bef754cafa4cf3c33b4b/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/8bd77469754e003a65f49ae805bdc012/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/2568c569a4b2bef754cafa4cf3c33b4b/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/grimish/.gradle/caches/9.5.1/transforms/8bd77469754e003a65f49ae805bdc012/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/grimish/.gradle/caches/8.10.2/transforms/2568c569a4b2bef754cafa4cf3c33b4b/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/9.5.1/transforms/98b0ccc4a1e77c51edcad445b17ac54f/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/8.10.2/transforms/1e42f52a1e7dbbaf5c4020a505c2c252/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/9.5.1/transforms/98b0ccc4a1e77c51edcad445b17ac54f/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/8.10.2/transforms/1e42f52a1e7dbbaf5c4020a505c2c252/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/9.5.1/transforms/98b0ccc4a1e77c51edcad445b17ac54f/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/8.10.2/transforms/1e42f52a1e7dbbaf5c4020a505c2c252/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
 permission#com.tbx606f.cpugovernor.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/9.5.1/transforms/98b0ccc4a1e77c51edcad445b17ac54f/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/8.10.2/transforms/1e42f52a1e7dbbaf5c4020a505c2c252/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/9.5.1/transforms/98b0ccc4a1e77c51edcad445b17ac54f/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/8.10.2/transforms/1e42f52a1e7dbbaf5c4020a505c2c252/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/9.5.1/transforms/98b0ccc4a1e77c51edcad445b17ac54f/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/8.10.2/transforms/1e42f52a1e7dbbaf5c4020a505c2c252/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
 uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/9.5.1/transforms/98b0ccc4a1e77c51edcad445b17ac54f/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/8.10.2/transforms/1e42f52a1e7dbbaf5c4020a505c2c252/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/9.5.1/transforms/98b0ccc4a1e77c51edcad445b17ac54f/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/8.10.2/transforms/1e42f52a1e7dbbaf5c4020a505c2c252/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
 uses-permission#com.tbx606f.cpugovernor.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/9.5.1/transforms/98b0ccc4a1e77c51edcad445b17ac54f/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/8.10.2/transforms/1e42f52a1e7dbbaf5c4020a505c2c252/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/9.5.1/transforms/98b0ccc4a1e77c51edcad445b17ac54f/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.13.0] /home/grimish/.gradle/caches/8.10.2/transforms/1e42f52a1e7dbbaf5c4020a505c2c252/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
 meta-data#androidx.profileinstaller.ProfileInstallerInitializer
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/9.5.1/transforms/1afa3dce58529f495fc7053833da81ee/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/8.10.2/transforms/f29f6041d2baa64d4641efdbcbbc38ce/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/9.5.1/transforms/1afa3dce58529f495fc7053833da81ee/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/8.10.2/transforms/f29f6041d2baa64d4641efdbcbbc38ce/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/9.5.1/transforms/1afa3dce58529f495fc7053833da81ee/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/8.10.2/transforms/f29f6041d2baa64d4641efdbcbbc38ce/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
 receiver#androidx.profileinstaller.ProfileInstallReceiver
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/9.5.1/transforms/1afa3dce58529f495fc7053833da81ee/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/8.10.2/transforms/f29f6041d2baa64d4641efdbcbbc38ce/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
 	android:enabled
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/9.5.1/transforms/1afa3dce58529f495fc7053833da81ee/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/8.10.2/transforms/f29f6041d2baa64d4641efdbcbbc38ce/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
 	android:exported
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/9.5.1/transforms/1afa3dce58529f495fc7053833da81ee/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/8.10.2/transforms/f29f6041d2baa64d4641efdbcbbc38ce/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
 	android:permission
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/9.5.1/transforms/1afa3dce58529f495fc7053833da81ee/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/8.10.2/transforms/f29f6041d2baa64d4641efdbcbbc38ce/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
 	android:directBootAware
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/9.5.1/transforms/1afa3dce58529f495fc7053833da81ee/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/8.10.2/transforms/f29f6041d2baa64d4641efdbcbbc38ce/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/9.5.1/transforms/1afa3dce58529f495fc7053833da81ee/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/8.10.2/transforms/f29f6041d2baa64d4641efdbcbbc38ce/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
 intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/9.5.1/transforms/1afa3dce58529f495fc7053833da81ee/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/8.10.2/transforms/f29f6041d2baa64d4641efdbcbbc38ce/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
 action#androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/9.5.1/transforms/1afa3dce58529f495fc7053833da81ee/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/8.10.2/transforms/f29f6041d2baa64d4641efdbcbbc38ce/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/9.5.1/transforms/1afa3dce58529f495fc7053833da81ee/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/8.10.2/transforms/f29f6041d2baa64d4641efdbcbbc38ce/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
 intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/9.5.1/transforms/1afa3dce58529f495fc7053833da81ee/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/8.10.2/transforms/f29f6041d2baa64d4641efdbcbbc38ce/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
 action#androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/9.5.1/transforms/1afa3dce58529f495fc7053833da81ee/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/8.10.2/transforms/f29f6041d2baa64d4641efdbcbbc38ce/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/9.5.1/transforms/1afa3dce58529f495fc7053833da81ee/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/8.10.2/transforms/f29f6041d2baa64d4641efdbcbbc38ce/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
 intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/9.5.1/transforms/1afa3dce58529f495fc7053833da81ee/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/8.10.2/transforms/f29f6041d2baa64d4641efdbcbbc38ce/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
 action#androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/9.5.1/transforms/1afa3dce58529f495fc7053833da81ee/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/8.10.2/transforms/f29f6041d2baa64d4641efdbcbbc38ce/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/9.5.1/transforms/1afa3dce58529f495fc7053833da81ee/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/8.10.2/transforms/f29f6041d2baa64d4641efdbcbbc38ce/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
 intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/9.5.1/transforms/1afa3dce58529f495fc7053833da81ee/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/8.10.2/transforms/f29f6041d2baa64d4641efdbcbbc38ce/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
 action#androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/9.5.1/transforms/1afa3dce58529f495fc7053833da81ee/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/8.10.2/transforms/f29f6041d2baa64d4641efdbcbbc38ce/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/9.5.1/transforms/1afa3dce58529f495fc7053833da81ee/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/grimish/.gradle/caches/8.10.2/transforms/f29f6041d2baa64d4641efdbcbbc38ce/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92

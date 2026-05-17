@@ -1,67 +1,332 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    android:padding="16dp">
-
-    <!-- Profile Buttons -->
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:gravity="center">
-
-        <Button
-            android:id="@+id/btnBattery"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:text="Battery Saver" />
-
-        <Button
-            android:id="@+id/btnEco"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:text="Eco" />
-    </LinearLayout>
+    android:background="@color/bg_primary"
+    android:fillViewport="true">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:gravity="center">
+        android:orientation="vertical">
 
-        <Button
-            android:id="@+id/btnBalanced"
-            android:layout_width="0dp"
+        <!-- ══ HEADER ══ -->
+        <LinearLayout
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:text="Balanced" />
+            android:orientation="vertical"
+            android:paddingHorizontal="20dp"
+            android:paddingTop="20dp"
+            android:paddingBottom="14dp"
+            android:background="@color/bg_surface">
 
-        <Button
-            android:id="@+id/btnPerformance"
-            android:layout_width="0dp"
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="CPU GOVERNOR"
+                android:fontFamily="monospace"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:letterSpacing="0.10"
+                android:textColor="@color/text_primary" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="TB-X606F  ·  MT8768T  ·  8 CORES"
+                android:fontFamily="monospace"
+                android:textSize="10sp"
+                android:textColor="@color/text_dim"
+                android:layout_marginTop="4dp" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:layout_marginTop="12dp">
+
+                <View
+                    android:layout_width="7dp"
+                    android:layout_height="7dp"
+                    android:background="@drawable/shape_dot" />
+
+                <TextView
+                    android:id="@+id/tvActiveProfile"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="BALANCED  ·  schedutil  ·  1690 MHz"
+                    android:fontFamily="monospace"
+                    android:textSize="10sp"
+                    android:textColor="@color/accent_green"
+                    android:layout_marginStart="8dp" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <View android:layout_width="match_parent" android:layout_height="1dp"
+            android:background="@color/divider" />
+
+        <!-- ══ PROFILE GRID ══ -->
+        <LinearLayout
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:text="Performance" />
+            android:orientation="vertical"
+            android:paddingHorizontal="16dp"
+            android:paddingTop="16dp"
+            android:paddingBottom="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="// POWER PROFILE"
+                android:fontFamily="monospace"
+                android:textSize="10sp"
+                android:letterSpacing="0.08"
+                android:textColor="@color/text_dim"
+                android:layout_marginBottom="10dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="6dp">
+
+                <Button
+                    android:id="@+id/btnBattery"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+                    android:layout_weight="1"
+                    android:layout_marginEnd="3dp"
+                    android:background="@drawable/bg_profile_btn"
+                    android:gravity="start|center_vertical"
+                    android:paddingHorizontal="12dp"
+                    android:stateListAnimator="@null"
+                    android:text="🔋  BATTERY\nPOWERSAVE · 600 MHz"
+                    android:textAlignment="viewStart"
+                    android:fontFamily="monospace"
+                    android:textSize="11sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/text_secondary" />
+
+                <Button
+                    android:id="@+id/btnEco"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+                    android:layout_weight="1"
+                    android:layout_marginStart="3dp"
+                    android:background="@drawable/bg_profile_btn"
+                    android:gravity="start|center_vertical"
+                    android:paddingHorizontal="12dp"
+                    android:stateListAnimator="@null"
+                    android:text="🌿  ECO\nCONSERVATIVE · 1196 MHz"
+                    android:textAlignment="viewStart"
+                    android:fontFamily="monospace"
+                    android:textSize="11sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/text_secondary" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btnBalanced"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+                    android:layout_weight="1"
+                    android:layout_marginEnd="3dp"
+                    android:background="@drawable/bg_profile_btn_active"
+                    android:gravity="start|center_vertical"
+                    android:paddingHorizontal="12dp"
+                    android:stateListAnimator="@null"
+                    android:text="⚖  BALANCED\nSCHEDUTIL · 1690 MHz"
+                    android:textAlignment="viewStart"
+                    android:fontFamily="monospace"
+                    android:textSize="11sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/accent_blue" />
+
+                <Button
+                    android:id="@+id/btnPerformance"
+                    android:layout_width="0dp"
+                    android:layout_height="70dp"
+                    android:layout_weight="1"
+                    android:layout_marginStart="3dp"
+                    android:background="@drawable/bg_profile_btn"
+                    android:gravity="start|center_vertical"
+                    android:paddingHorizontal="12dp"
+                    android:stateListAnimator="@null"
+                    android:text="⚡  PERFORMANCE\nPERFORMANCE · 2000 MHz"
+                    android:textAlignment="viewStart"
+                    android:fontFamily="monospace"
+                    android:textSize="11sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/text_secondary" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <!-- ══ STAT CHIPS ══ -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingHorizontal="16dp"
+            android:paddingTop="2dp"
+            android:paddingBottom="14dp">
+
+            <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+                android:layout_weight="1" android:orientation="vertical"
+                android:background="@drawable/bg_stat_chip" android:padding="10dp"
+                android:layout_marginEnd="3dp">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="GOV" android:fontFamily="monospace"
+                    android:textSize="9sp" android:textColor="@color/text_dim" />
+                <TextView android:id="@+id/tvStatGovernor" android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" android:text="schedutil"
+                    android:fontFamily="monospace" android:textSize="11sp" android:textStyle="bold"
+                    android:textColor="@color/accent_blue" android:layout_marginTop="2dp" />
+            </LinearLayout>
+
+            <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+                android:layout_weight="1" android:orientation="vertical"
+                android:background="@drawable/bg_stat_chip" android:padding="10dp"
+                android:layout_marginHorizontal="3dp">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="MAX" android:fontFamily="monospace"
+                    android:textSize="9sp" android:textColor="@color/text_dim" />
+                <TextView android:id="@+id/tvStatMaxFreq" android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" android:text="1690MHz"
+                    android:fontFamily="monospace" android:textSize="11sp" android:textStyle="bold"
+                    android:textColor="@color/accent_blue" android:layout_marginTop="2dp" />
+            </LinearLayout>
+
+            <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+                android:layout_weight="1" android:orientation="vertical"
+                android:background="@drawable/bg_stat_chip" android:padding="10dp"
+                android:layout_marginHorizontal="3dp">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="TEMP" android:fontFamily="monospace"
+                    android:textSize="9sp" android:textColor="@color/text_dim" />
+                <TextView android:id="@+id/tvStatTemp" android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" android:text="—°C"
+                    android:fontFamily="monospace" android:textSize="11sp" android:textStyle="bold"
+                    android:textColor="@color/accent_green" android:layout_marginTop="2dp" />
+            </LinearLayout>
+
+            <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+                android:layout_weight="1" android:orientation="vertical"
+                android:background="@drawable/bg_stat_chip" android:padding="10dp"
+                android:layout_marginStart="3dp">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="DRAIN" android:fontFamily="monospace"
+                    android:textSize="9sp" android:textColor="@color/text_dim" />
+                <TextView android:id="@+id/tvStatDrain" android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" android:text="16-24%"
+                    android:fontFamily="monospace" android:textSize="11sp" android:textStyle="bold"
+                    android:textColor="@color/accent_blue" android:layout_marginTop="2dp" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <View android:layout_width="match_parent" android:layout_height="1dp"
+            android:background="@color/divider" />
+
+        <!-- ══ THERMAL CONTROL ══ -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:paddingHorizontal="20dp"
+            android:paddingVertical="14dp"
+            android:background="@color/bg_surface">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="THERMAL THROTTLING"
+                    android:fontFamily="monospace"
+                    android:textSize="12sp"
+                    android:textStyle="bold"
+                    android:letterSpacing="0.06"
+                    android:textColor="@color/text_primary" />
+
+                <TextView
+                    android:id="@+id/tvThermalStatus"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="ENABLED  ·  /proc/mtk_thermal"
+                    android:fontFamily="monospace"
+                    android:textSize="10sp"
+                    android:textColor="@color/text_dim"
+                    android:layout_marginTop="2dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="⚠  disable may cause overheating"
+                    android:fontFamily="monospace"
+                    android:textSize="9sp"
+                    android:textColor="@color/accent_amber"
+                    android:layout_marginTop="3dp" />
+
+            </LinearLayout>
+
+            <com.google.android.material.switchmaterial.SwitchMaterial
+                android:id="@+id/switchThermal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                app:trackTint="@color/switch_on_track"
+                app:thumbTint="@color/switch_thumb" />
+
+        </LinearLayout>
+
+        <View android:layout_width="match_parent" android:layout_height="1dp"
+            android:background="@color/divider" />
+
+        <!-- ══ CORE MONITOR ══ -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingHorizontal="20dp"
+            android:paddingTop="14dp"
+            android:paddingBottom="6dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="// CORE MONITOR"
+                android:fontFamily="monospace"
+                android:textSize="10sp"
+                android:letterSpacing="0.08"
+                android:textColor="@color/text_dim" />
+
+        </LinearLayout>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerCores"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingHorizontal="20dp"
+            android:paddingBottom="28dp"
+            android:clipToPadding="false"
+            android:nestedScrollingEnabled="false" />
+
     </LinearLayout>
-
-    <!-- Thermal Toggle -->
-    <Switch
-        android:id="@+id/switchThermal"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
-        android:text="Disable Thermal Throttling (Warning: Tablet may get warm)" />
-
-    <!-- Core List -->
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/recyclerCores"
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
-        android:layout_marginTop="16dp" />
-
-</LinearLayout>
+</androidx.core.widget.NestedScrollView>
