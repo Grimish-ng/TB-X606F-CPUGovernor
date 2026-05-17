@@ -4,16 +4,14 @@ package com.tbx606f.cpugovernor.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.LinearLayout;
-import android.widget.ScrollView;
-import android.widget.TextView;
+import android.widget.Switch;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
-import com.google.android.material.button.MaterialButton;
-import com.google.android.material.card.MaterialCardView;
 import com.tbx606f.cpugovernor.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
@@ -21,86 +19,41 @@ import java.lang.String;
 
 public final class ActivityMainBinding implements ViewBinding {
   @NonNull
-  private final ScrollView rootView;
+  private final LinearLayout rootView;
 
   @NonNull
-  public final MaterialButton btnApply;
+  public final Button btnBalanced;
 
   @NonNull
-  public final MaterialButton btnRetryRoot;
+  public final Button btnBattery;
 
   @NonNull
-  public final MaterialCardView cardBalanced;
+  public final Button btnEco;
 
   @NonNull
-  public final MaterialCardView cardBatterySaver;
+  public final Button btnPerformance;
 
   @NonNull
-  public final MaterialCardView cardEco;
+  public final RecyclerView recyclerCores;
 
   @NonNull
-  public final MaterialCardView cardPerformance;
+  public final Switch switchThermal;
 
-  @NonNull
-  public final LinearLayout layoutMain;
-
-  @NonNull
-  public final LinearLayout layoutRootChecking;
-
-  @NonNull
-  public final LinearLayout layoutRootDenied;
-
-  @NonNull
-  public final RecyclerView rvCores;
-
-  @NonNull
-  public final TextView tvActiveProfile;
-
-  @NonNull
-  public final TextView tvCpuTemp;
-
-  @NonNull
-  public final TextView tvProfileDescription;
-
-  @NonNull
-  public final TextView tvSelectedDrain;
-
-  @NonNull
-  public final TextView tvSelectedGovernor;
-
-  @NonNull
-  public final TextView tvSelectedMaxFreq;
-
-  private ActivityMainBinding(@NonNull ScrollView rootView, @NonNull MaterialButton btnApply,
-      @NonNull MaterialButton btnRetryRoot, @NonNull MaterialCardView cardBalanced,
-      @NonNull MaterialCardView cardBatterySaver, @NonNull MaterialCardView cardEco,
-      @NonNull MaterialCardView cardPerformance, @NonNull LinearLayout layoutMain,
-      @NonNull LinearLayout layoutRootChecking, @NonNull LinearLayout layoutRootDenied,
-      @NonNull RecyclerView rvCores, @NonNull TextView tvActiveProfile, @NonNull TextView tvCpuTemp,
-      @NonNull TextView tvProfileDescription, @NonNull TextView tvSelectedDrain,
-      @NonNull TextView tvSelectedGovernor, @NonNull TextView tvSelectedMaxFreq) {
+  private ActivityMainBinding(@NonNull LinearLayout rootView, @NonNull Button btnBalanced,
+      @NonNull Button btnBattery, @NonNull Button btnEco, @NonNull Button btnPerformance,
+      @NonNull RecyclerView recyclerCores, @NonNull Switch switchThermal) {
     this.rootView = rootView;
-    this.btnApply = btnApply;
-    this.btnRetryRoot = btnRetryRoot;
-    this.cardBalanced = cardBalanced;
-    this.cardBatterySaver = cardBatterySaver;
-    this.cardEco = cardEco;
-    this.cardPerformance = cardPerformance;
-    this.layoutMain = layoutMain;
-    this.layoutRootChecking = layoutRootChecking;
-    this.layoutRootDenied = layoutRootDenied;
-    this.rvCores = rvCores;
-    this.tvActiveProfile = tvActiveProfile;
-    this.tvCpuTemp = tvCpuTemp;
-    this.tvProfileDescription = tvProfileDescription;
-    this.tvSelectedDrain = tvSelectedDrain;
-    this.tvSelectedGovernor = tvSelectedGovernor;
-    this.tvSelectedMaxFreq = tvSelectedMaxFreq;
+    this.btnBalanced = btnBalanced;
+    this.btnBattery = btnBattery;
+    this.btnEco = btnEco;
+    this.btnPerformance = btnPerformance;
+    this.recyclerCores = recyclerCores;
+    this.switchThermal = switchThermal;
   }
 
   @Override
   @NonNull
-  public ScrollView getRoot() {
+  public LinearLayout getRoot() {
     return rootView;
   }
 
@@ -125,106 +78,44 @@ public final class ActivityMainBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.btn_apply;
-      MaterialButton btnApply = ViewBindings.findChildViewById(rootView, id);
-      if (btnApply == null) {
+      id = R.id.btnBalanced;
+      Button btnBalanced = ViewBindings.findChildViewById(rootView, id);
+      if (btnBalanced == null) {
         break missingId;
       }
 
-      id = R.id.btn_retry_root;
-      MaterialButton btnRetryRoot = ViewBindings.findChildViewById(rootView, id);
-      if (btnRetryRoot == null) {
+      id = R.id.btnBattery;
+      Button btnBattery = ViewBindings.findChildViewById(rootView, id);
+      if (btnBattery == null) {
         break missingId;
       }
 
-      id = R.id.card_balanced;
-      MaterialCardView cardBalanced = ViewBindings.findChildViewById(rootView, id);
-      if (cardBalanced == null) {
+      id = R.id.btnEco;
+      Button btnEco = ViewBindings.findChildViewById(rootView, id);
+      if (btnEco == null) {
         break missingId;
       }
 
-      id = R.id.card_battery_saver;
-      MaterialCardView cardBatterySaver = ViewBindings.findChildViewById(rootView, id);
-      if (cardBatterySaver == null) {
+      id = R.id.btnPerformance;
+      Button btnPerformance = ViewBindings.findChildViewById(rootView, id);
+      if (btnPerformance == null) {
         break missingId;
       }
 
-      id = R.id.card_eco;
-      MaterialCardView cardEco = ViewBindings.findChildViewById(rootView, id);
-      if (cardEco == null) {
+      id = R.id.recyclerCores;
+      RecyclerView recyclerCores = ViewBindings.findChildViewById(rootView, id);
+      if (recyclerCores == null) {
         break missingId;
       }
 
-      id = R.id.card_performance;
-      MaterialCardView cardPerformance = ViewBindings.findChildViewById(rootView, id);
-      if (cardPerformance == null) {
+      id = R.id.switchThermal;
+      Switch switchThermal = ViewBindings.findChildViewById(rootView, id);
+      if (switchThermal == null) {
         break missingId;
       }
 
-      id = R.id.layout_main;
-      LinearLayout layoutMain = ViewBindings.findChildViewById(rootView, id);
-      if (layoutMain == null) {
-        break missingId;
-      }
-
-      id = R.id.layout_root_checking;
-      LinearLayout layoutRootChecking = ViewBindings.findChildViewById(rootView, id);
-      if (layoutRootChecking == null) {
-        break missingId;
-      }
-
-      id = R.id.layout_root_denied;
-      LinearLayout layoutRootDenied = ViewBindings.findChildViewById(rootView, id);
-      if (layoutRootDenied == null) {
-        break missingId;
-      }
-
-      id = R.id.rv_cores;
-      RecyclerView rvCores = ViewBindings.findChildViewById(rootView, id);
-      if (rvCores == null) {
-        break missingId;
-      }
-
-      id = R.id.tv_active_profile;
-      TextView tvActiveProfile = ViewBindings.findChildViewById(rootView, id);
-      if (tvActiveProfile == null) {
-        break missingId;
-      }
-
-      id = R.id.tv_cpu_temp;
-      TextView tvCpuTemp = ViewBindings.findChildViewById(rootView, id);
-      if (tvCpuTemp == null) {
-        break missingId;
-      }
-
-      id = R.id.tv_profile_description;
-      TextView tvProfileDescription = ViewBindings.findChildViewById(rootView, id);
-      if (tvProfileDescription == null) {
-        break missingId;
-      }
-
-      id = R.id.tv_selected_drain;
-      TextView tvSelectedDrain = ViewBindings.findChildViewById(rootView, id);
-      if (tvSelectedDrain == null) {
-        break missingId;
-      }
-
-      id = R.id.tv_selected_governor;
-      TextView tvSelectedGovernor = ViewBindings.findChildViewById(rootView, id);
-      if (tvSelectedGovernor == null) {
-        break missingId;
-      }
-
-      id = R.id.tv_selected_max_freq;
-      TextView tvSelectedMaxFreq = ViewBindings.findChildViewById(rootView, id);
-      if (tvSelectedMaxFreq == null) {
-        break missingId;
-      }
-
-      return new ActivityMainBinding((ScrollView) rootView, btnApply, btnRetryRoot, cardBalanced,
-          cardBatterySaver, cardEco, cardPerformance, layoutMain, layoutRootChecking,
-          layoutRootDenied, rvCores, tvActiveProfile, tvCpuTemp, tvProfileDescription,
-          tvSelectedDrain, tvSelectedGovernor, tvSelectedMaxFreq);
+      return new ActivityMainBinding((LinearLayout) rootView, btnBalanced, btnBattery, btnEco,
+          btnPerformance, recyclerCores, switchThermal);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

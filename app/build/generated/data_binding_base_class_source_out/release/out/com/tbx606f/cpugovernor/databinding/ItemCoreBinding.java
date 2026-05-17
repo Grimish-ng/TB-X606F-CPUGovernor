@@ -5,7 +5,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
-import android.widget.ProgressBar;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -21,24 +20,11 @@ public final class ItemCoreBinding implements ViewBinding {
   private final LinearLayout rootView;
 
   @NonNull
-  public final TextView coreLabel;
+  public final TextView textCore;
 
-  @NonNull
-  public final TextView freqText;
-
-  @NonNull
-  public final TextView governorText;
-
-  @NonNull
-  public final ProgressBar usageBar;
-
-  private ItemCoreBinding(@NonNull LinearLayout rootView, @NonNull TextView coreLabel,
-      @NonNull TextView freqText, @NonNull TextView governorText, @NonNull ProgressBar usageBar) {
+  private ItemCoreBinding(@NonNull LinearLayout rootView, @NonNull TextView textCore) {
     this.rootView = rootView;
-    this.coreLabel = coreLabel;
-    this.freqText = freqText;
-    this.governorText = governorText;
-    this.usageBar = usageBar;
+    this.textCore = textCore;
   }
 
   @Override
@@ -68,32 +54,13 @@ public final class ItemCoreBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.core_label;
-      TextView coreLabel = ViewBindings.findChildViewById(rootView, id);
-      if (coreLabel == null) {
+      id = R.id.textCore;
+      TextView textCore = ViewBindings.findChildViewById(rootView, id);
+      if (textCore == null) {
         break missingId;
       }
 
-      id = R.id.freq_text;
-      TextView freqText = ViewBindings.findChildViewById(rootView, id);
-      if (freqText == null) {
-        break missingId;
-      }
-
-      id = R.id.governor_text;
-      TextView governorText = ViewBindings.findChildViewById(rootView, id);
-      if (governorText == null) {
-        break missingId;
-      }
-
-      id = R.id.usage_bar;
-      ProgressBar usageBar = ViewBindings.findChildViewById(rootView, id);
-      if (usageBar == null) {
-        break missingId;
-      }
-
-      return new ItemCoreBinding((LinearLayout) rootView, coreLabel, freqText, governorText,
-          usageBar);
+      return new ItemCoreBinding((LinearLayout) rootView, textCore);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
