@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.tbx606f.cpugovernor.app-mergeReleaseResources-36:/layout/item_core.xml",
+        "source": "com.tbx606f.cpugovernor.app-main-38:/layout/item_core.xml"
+    },
+    {
+        "merged": "com.tbx606f.cpugovernor.app-mergeReleaseResources-36:/layout/activity_main.xml",
+        "source": "com.tbx606f.cpugovernor.app-main-38:/layout/activity_main.xml"
+    }
+]

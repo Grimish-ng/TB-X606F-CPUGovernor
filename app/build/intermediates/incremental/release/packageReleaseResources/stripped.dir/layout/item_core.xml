@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:paddingHorizontal="8dp"
+    android:paddingVertical="10dp">
+
+    <TextView
+        android:id="@+id/core_label"
+        android:layout_width="52dp"
+        android:layout_height="wrap_content"
+        android:textSize="13sp"
+        android:textColor="@color/text_secondary"
+        tools:text="Core 0" />
+
+    <ProgressBar
+        android:id="@+id/usage_bar"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_width="0dp"
+        android:layout_height="6dp"
+        android:layout_weight="1"
+        android:max="100"
+        android:progressTint="@color/accent"
+        android:progress="65"
+        tools:progress="65" />
+
+    <TextView
+        android:id="@+id/governor_text"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:textSize="10sp"
+        android:textColor="@color/text_tertiary"
+        android:gravity="end"
+        tools:text="schedutil" />
+
+    <TextView
+        android:id="@+id/freq_text"
+        android:layout_width="72dp"
+        android:layout_height="wrap_content"
+        android:textSize="11sp"
+        android:textColor="@color/text_secondary"
+        android:gravity="end"
+        tools:text="1200 MHz" />
+
+</LinearLayout>
