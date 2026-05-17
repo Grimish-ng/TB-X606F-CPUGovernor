@@ -1,0 +1,16 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# The gradle-wrapper.jar is intentionally excluded here.
+# GitHub Actions downloads Gradle automatically via the wrapper properties file.
+# If you open this project locally in Android Studio, it will also download it automatically.
+# You do NOT need to commit this jar.
+gradle/wrapper/gradle-wrapper.jar
