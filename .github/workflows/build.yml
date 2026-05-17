@@ -1,4 +1,4 @@
-name: Build Android Project
+name: Build Android App
 
 on:
   push:
@@ -19,14 +19,14 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
 
-      - name: Setup Gradle
+      - name: Setup Gradle (no wrapper needed)
         uses: gradle/actions/setup-gradle@v4
 
-      - name: Build with Gradle
-        run: ./gradlew build --no-daemon
+      - name: Build Debug APK
+        run: ./gradlew assembleDebug --no-daemon
 
-      - name: Upload Build Artifacts
+      - name: Upload Debug APK
         uses: actions/upload-artifact@v4
         with:
-          name: build-outputs
-          path: app/build/outputs/
+          name: debug-apk
+          path: app/build/outputs/apk/debug/
